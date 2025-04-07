@@ -1,6 +1,3 @@
-Sure! Here's a more polished and professional rewrite while keeping your original structure and clarity intact:
-
----
 
 # 🏎️ Formula 1 Race Prediction  
 Predicting Formula 1 race results using machine learning  
