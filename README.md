@@ -50,13 +50,4 @@ While reasonable for a first version, improving lap-level accuracy is essential 
 - **Prediction Error (3.47s)** – Acceptable for proof of concept but needs refinement  
 - **Missing Race-Day Variables** – Tire wear, weather, pit strategy, etc., were not included  
 
----
-
-## 🚀 Future Improvements  
-To improve the model’s performance, consider adding:  
-- **Tire Compound Strategy** – Affects speed and degradation rate  
-- **Weather Conditions** – Rain and track temperature impact grip  
-- **Pace Evolution** – Some drivers improve across stints, others fade  
-- **Pit-Stop Strategy** – Undercuts, overcuts, and safety car windows matter  
-- **Track-Specific Overtaking Difficulty** – Circuit layout plays a big role  
 
